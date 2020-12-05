@@ -9,3 +9,4 @@ crate-type = ["cdylib"]
 # cargo build --target wasm32-unknown-unknown --release
 
 [dependencies]
+wapc-guest = "0.4.0"
